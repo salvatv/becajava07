@@ -1,3 +1,7 @@
 hooola soy a hackeado
 
+<<<<<<< HEAD
 sdgsdfdf
+=======
+zxzczcx
+>>>>>>> 46b0465d374cecce032104b6e8dc3501c638ce2c
